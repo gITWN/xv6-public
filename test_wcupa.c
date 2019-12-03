@@ -1,5 +1,5 @@
 #include "types.h"
-#include "stat.h"n
+#include "stat.h"
 #include "user.h"
  
 int main(void) {
