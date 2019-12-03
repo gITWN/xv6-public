@@ -8,6 +8,11 @@
 #include "proc.h"
 
 int
+sys_wcupa(void)
+{
+  return 1871;
+}
+int
 sys_fork(void)
 {
   return fork();
